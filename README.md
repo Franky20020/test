@@ -1,8 +1,5 @@
 # Traffic Offense 
 
 
-git config --global user.name "Franky20020"
-git config --global user.email "lqs20020@163.com"
-git config --global --list
 
-aa
+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
